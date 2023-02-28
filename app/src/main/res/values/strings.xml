@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RepeatNotificationPractice</string>
+    <string name="reminder_notification_channel_id">reminder_channel</string>
+    <string name="reminder_notification_channel_name">Reminder channel</string>
+    <string name="title_notification_reminder">Title</string>
+    <string name="desctiption_notification_reminder">this is my desctiption</string>
 </resources>
